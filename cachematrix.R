@@ -1,3 +1,11 @@
+#makeCacheMatrix creates a special matrix object, and then what the cacheSolve does is it
+
+#calculates the inverse of the matrix.
+
+#If the matrix inverse has already been calculated, it will instead
+
+#find it in the cache and return it, and not calculate it again. This the quality of this assignment.
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
